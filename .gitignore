@@ -1,0 +1,5 @@
+# Segredos e config local de agentes de IA (nunca versionar)
+.env
+.env.*
+.claude/settings.local.json
+!.env.example
